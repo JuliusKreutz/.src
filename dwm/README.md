@@ -11,6 +11,7 @@ I set my [modkey](https://dwm.suckless.org/customisation/windows_key/) to the Wi
 
 ## Navigation
 - win + [1-9] (Switches to corresponding tag)
+- win + 0 (open all tags as one)
 - win + shift + [1-9] (Moves window to corresponding tag)
 - win + j (Focuscicle through the windows in stack order)
 - win + k (Focuscicle through the windows in stack order reversed)
