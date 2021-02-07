@@ -34,3 +34,7 @@ I set my [modkey](https://dwm.suckless.org/customisation/windows_key/) to the Wi
   - win + rightClick (Make window to floating window and resize it)
 - ### Floating layout
   - win + shift + space (Make floating window go back to tiling)
+
+## Vanity
+- win + + (Increase border between windows by 1 pixel)
+- win + - (Dencrease border between windows by 1 pixel)
