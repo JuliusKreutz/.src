@@ -1,4 +1,4 @@
-# My suckless builds because some Students asked for it
+# My suckless builds because some students asked for it
 There are three main build
 - [My dwm build](https://github.com/JuliusKreutz/.src/tree/master/dwm). A window manager forked from https://dwm.suckless.org/
 - [My st build](https://github.com/JuliusKreutz/.src/tree/master/st). A terminal emulator forked from https://st.suckless.org/
