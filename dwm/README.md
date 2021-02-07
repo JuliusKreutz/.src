@@ -37,4 +37,4 @@ I set my [modkey](https://dwm.suckless.org/customisation/windows_key/) to the Wi
 
 ## Vanity
 - win + + (Increase border between windows by 1 pixel)
-- win + - (Dencrease border between windows by 1 pixel)
+- win + - (Decrease border between windows by 1 pixel)
